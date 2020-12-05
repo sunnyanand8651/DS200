@@ -5,3 +5,7 @@ I'll discuss about the data sources and observations for the plots in below sect
 ## Scatter Plot
 For the scatter plot, "Trends in World Primary Energy Consumption by Fuel from 2012 to 2018" dataset is used. The plot depicts the annual worldwide energy consumption through all types of fuel from 2012 to 2018. As the observation suggests, the energy consumption is consistently increasing over the years.<br/>
 ![](https://github.com/sunnyanand8651/DS200/blob/main/Scatter-Plot.png)
+
+## Bar Plot
+For the bar plot, "State/UT-wise Types of Indian National Prisoners from 2016 to 2018" dataset is used.The plot depicts the annual statewise number for prisoners from 2016 to 2018. Looking at the plot, we can say that the number of prisoners in the state of Uttar Pradesh is much higher than other states.<br/>
+![]()
