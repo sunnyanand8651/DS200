@@ -7,5 +7,9 @@ For the scatter plot, "Trends in World Primary Energy Consumption by Fuel from 2
 ![](https://github.com/sunnyanand8651/DS200/blob/main/Scatter-Plot.png)
 
 ## Bar Plot
-For the bar plot, "State/UT-wise Types of Indian National Prisoners from 2016 to 2018" dataset is used.The plot depicts the annual statewise number for prisoners from 2016 to 2018. Looking at the plot, we can say that the number of prisoners in the state of Uttar Pradesh is much higher than other states.<br/>
+For the bar plot, "State/UT-wise Types of Indian National Prisoners from 2016 to 2018" dataset is used. The plot depicts the annual statewise number for prisoners from 2016 to 2018. Looking at the plot, we can say that the number of prisoners in the state of Uttar Pradesh is much higher than other states.<br/>
+![](https://github.com/sunnyanand8651/DS200/blob/main/Bar-Plot.png)
+
+## Box Plot
+For the box plot, "Time Series Data on Production of Pig Iron by Public and Private Sectors of Steel Industry from 2013-14 to 2018-19" dataset is used. The plot depicts the distribution of annual production of pig iron from 2013-14 to 2018-2019 in public and private sectors. From the plot, it is clear that the production of pig iron in public sector is much lesser as compared to private sector.
 ![]()
